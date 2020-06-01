@@ -1,8 +1,12 @@
 # Interactive-Dictionary-App
-A simple application that runs in the command line. Provides the definition of a word with basic error handling. 
 
-####### Interactive Dictionary #########
-# user inputs a word and the program provides the definition of the word
-# input & output is displayed within the commandline - no graphical interface. 
-# Takeaways from project: importing libraries, getting data from the JSON file, conditionals, variables, and debugging. 
-# Possible extensions to this program: web or desktop application with a graphical interface. 
+Case Use: A simple application that runs in the command line. Provides the definition of a word with basic error handling. User inputs a word and the program provides the definition from a JSON dataset. Both Input & Output is displayed with the commandline - no graphical interface. Basic error handling is used to account for misspellings, lowercase, and uppercase definitions. 
+
+Modules Used:
+- difflib
+
+To Run The Script:
+
+Run the Python script "app1.py" within your terminal.
+
+Follow the instructions prompted within the terminal and get your definition! 
